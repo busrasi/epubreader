@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/pages">
+        <file>qmldir</file>
+        <file>BookPage.qml</file>
+        <file>MainPage.qml</file>
+    </qresource>
+</RCC>

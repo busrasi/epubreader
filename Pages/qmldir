@@ -1,0 +1,4 @@
+module Pages
+BookPage 1.0 BookPage.qml
+MainPage 1.0 MainPage.qml
+
